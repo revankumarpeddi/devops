@@ -1,3 +1,7 @@
 hello
 this is my first file in git
 added some line
+
+
+
+hello how are you?
